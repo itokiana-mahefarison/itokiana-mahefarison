@@ -1,4 +1,4 @@
-# Bonjour ! 👋 Bienvenue sur le profil de Itokiana Mahefarison
+# Bonjour ! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Développeur+passionné+de+JavaScript+%26+TypeScript;Innovateur+dans+l'âme;Créateur+de+solutions+numériques+modernes)
 
@@ -49,5 +49,5 @@ Merci de votre visite ! J'espère que vous trouverez quelque chose qui vous int�
 
 À bientôt dans le monde du code ! 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/ItokianaMahefarison?style=social)
+![GitHub followers](https://img.shields.io/github/followers/itokiana-mahefarison?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ItokianaMahefarison?style=social)
