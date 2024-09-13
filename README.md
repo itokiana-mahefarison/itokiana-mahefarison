@@ -45,9 +45,10 @@ Vous pouvez me joindre via :
 
 Email : itokiana.mahefarison@gmail.com
 
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itokiana-ghislain-mahefarison-710227228)
+
 Merci de votre visite ! J'espère que vous trouverez quelque chose qui vous intéresse ici. N'hésitez pas à explorer mon profil pour découvrir plus sur mes contributions et expériences.
 
 À bientôt dans le monde du code ! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/itokiana-mahefarison?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ItokianaMahefarison?style=social)
